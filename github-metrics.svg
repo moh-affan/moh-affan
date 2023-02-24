@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>abunuwas/fastapi-jwt-tutorial</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Code for my JWT auth for FastAPI tutorial (https://youtu.be/C92mjEKUfNQ)</div>
@@ -358,7 +358,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>testdrivenio/fastapi-jwt</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">secure a FastAPI app by enabling authentication using JSON Web Tokens (JWTs)</div>
@@ -938,7 +938,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.59m out of 379m repositories</span>
+                                    <span class="gh">ranked 1.62m out of 379m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 5 times</div>
                             </div>
@@ -1211,7 +1211,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Feb 2023, 18:13:16 (timezone Asia/Jakarta) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 24 Feb 2023, 19:28:13 (timezone Asia/Jakarta) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

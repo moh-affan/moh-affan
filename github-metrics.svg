@@ -364,7 +364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>abunuwas/fastapi-jwt-tutorial</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Feb 24 2023</span>
                                     </div>
                                 </div>
                                 <div class="field description">Code for my JWT auth for FastAPI tutorial (https://youtu.be/C92mjEKUfNQ)</div>
@@ -411,7 +411,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>testdrivenio/fastapi-jwt</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Feb 24 2023</span>
                                     </div>
                                 </div>
                                 <div class="field description">secure a FastAPI app by enabling authentication using JSON Web Tokens (JWTs)</div>
@@ -1187,7 +1187,7 @@ fix circular import</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Mar 2023, 15:15:53 (timezone Asia/Jakarta) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 26 Mar 2023, 16:12:24 (timezone Asia/Jakarta) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

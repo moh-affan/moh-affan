@@ -746,7 +746,7 @@ fix loker</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 111k out of 125m users</span>
+                                    <span class="gh">ranked 111k out of 124m users</span>
                                 </div>
                                 <div class="text">Published 125 public repositories</div>
                             </div>
@@ -932,7 +932,7 @@ fix loker</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.10m out of 125m users</span>
+                                    <span class="gh">ranked 1.10m out of 124m users</span>
                                 </div>
                                 <div class="text">Followed by 12 users</div>
                             </div>
@@ -978,7 +978,7 @@ fix loker</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.77m out of 51.2m repositories</span>
+                                    <span class="gh">ranked 1.77m out of 45m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 5 times</div>
                             </div>
@@ -1251,7 +1251,7 @@ fix loker</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2023, 17:14:46 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Nov 2023, 18:11:30 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

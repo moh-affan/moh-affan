@@ -738,7 +738,7 @@ fixing field conflict in migrations</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 116k out of 136m users</span>
+                                    <span class="gh">ranked 116k out of 135m users</span>
                                 </div>
                                 <div class="text">Published 127 public repositories</div>
                             </div>
@@ -957,7 +957,7 @@ fixing field conflict in migrations</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 954k out of 136m users</span>
+                                    <span class="gh">ranked 955k out of 135m users</span>
                                 </div>
                                 <div class="text">Followed by 15 users</div>
                             </div>
@@ -1003,7 +1003,7 @@ fixing field conflict in migrations</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.87m out of 206m repositories</span>
+                                    <span class="gh">ranked 1.87m out of 204m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 5 times</div>
                             </div>
@@ -1117,7 +1117,7 @@ fixing field conflict in migrations</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.13m out of 206m repositories</span>
+                                    <span class="gh">ranked 3.13m out of 204m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -1244,7 +1244,7 @@ fixing field conflict in migrations</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 May 2024, 03:12:00 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 May 2024, 04:12:29 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

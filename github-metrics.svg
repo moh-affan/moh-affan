@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>scivision/office-headless</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Headless document conversion and printing using LibreOffice or Microsoft Office</div>
@@ -366,7 +366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elapouya/python-docx-template</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use a docx as a jinja2 template</div>
@@ -419,7 +419,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anderspitman/awesome-tunneling</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.</div>
@@ -987,7 +987,7 @@ doc to pdf</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.87m out of 198m repositories</span>
+                                    <span class="gh">ranked 1.87m out of 204m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 5 times</div>
                             </div>
@@ -1101,7 +1101,7 @@ doc to pdf</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.14m out of 198m repositories</span>
+                                    <span class="gh">ranked 3.14m out of 204m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -1228,7 +1228,7 @@ doc to pdf</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 May 2024, 18:11:55 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 May 2024, 19:26:30 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

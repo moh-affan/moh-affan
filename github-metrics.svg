@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>behai-nguyen/rust_web_01</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">First Rust "web application".</div>
@@ -360,7 +360,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>scivision/office-headless</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Headless document conversion and printing using LibreOffice or Microsoft Office</div>
@@ -413,7 +413,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elapouya/python-docx-template</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use a docx as a jinja2 template</div>
@@ -986,7 +986,7 @@ doc to pdf</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.87m out of 201m repositories</span>
+                                    <span class="gh">ranked 1.87m out of 195m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 5 times</div>
                             </div>
@@ -1100,7 +1100,7 @@ doc to pdf</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.14m out of 201m repositories</span>
+                                    <span class="gh">ranked 3.14m out of 195m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -1227,7 +1227,7 @@ doc to pdf</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 May 2024, 09:02:43 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 May 2024, 10:18:20 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

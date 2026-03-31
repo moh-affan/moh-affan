@@ -28,12 +28,12 @@
 
 **Languages**
 <p>
-<img src="https://skillicons.dev/icons?i=rust,python,dart" />
+<img src="https://skillicons.dev/icons?i=rust,python,dart,typescript,javascript" />
 </p>
 
 **Frameworks & Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,django,fastapi,docker,postgres,gcp,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=flutter,nextjs,django,fastapi,docker,postgres,gcp,tensorflow,pytorch" />
 </p>
 
 ---

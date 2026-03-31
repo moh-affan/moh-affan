@@ -6,15 +6,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="45%">
-
-![Metrics](/github-metrics.svg)
-
-</td>
-<td width="55%">
-
 ### 👨‍💻 About Me
 - 💼 Backend Engineer (Rust, Python)
 - 📱 Mobile Developer (Flutter)
@@ -53,9 +44,7 @@
 ### ⚡ Philosophy
 > *"Engineers are problem solvers, code is just one of the means."*
 
-</td>
-</tr>
-</table>
+![Metrics](/github-metrics.svg)
 
 ---
 

@@ -50,6 +50,8 @@
 
 <p align="center">
   <img src="https://github.com/moh-affan/moh-affan/raw/main/github-metrics.svg" />
+</p>
+<p>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=moh-affan&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moh-affan&theme=tokyonight&hide_border=true" height="150"/>
 </p>

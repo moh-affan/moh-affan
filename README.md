@@ -16,7 +16,7 @@
 <td width="55%">
 
 ### 👨‍💻 About Me
-- 💼 Backend Engineer (Rust, Go, Python)
+- 💼 Backend Engineer (Rust, Python)
 - 📱 Mobile Developer (Flutter)
 - ☁️ Cloud Enthusiast (GCP, Docker)
 - 🧠 Passionate about **AI, ML, NLP & RAG Systems**
@@ -28,12 +28,12 @@
 
 **Languages**
 <p>
-<img src="https://skillicons.dev/icons?i=rust,go,python,dart,cpp" />
+<img src="https://skillicons.dev/icons?i=rust,python,dart" />
 </p>
 
 **Frameworks & Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,fastapi,docker,postgres,mysql,gcp" />
+<img src="https://skillicons.dev/icons?i=flutter,django,fastapi,docker,postgres,gcp,tensorflow,pytorch" />
 </p>
 
 ---

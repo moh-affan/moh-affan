@@ -44,13 +44,12 @@
 ### ⚡ Philosophy
 > *"Engineers are problem solvers, code is just one of the means."*
 
-![Metrics](/github-metrics.svg)
-
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
+  ![Metrics](/github-metrics.svg)
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=moh-affan&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moh-affan&theme=tokyonight&hide_border=true" height="150"/>
 </p>
